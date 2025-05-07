@@ -21,6 +21,7 @@ This project explores fake news detection using **multimodal data**—both **tex
 - `private_image_set/`: Folder with images (named as `<id>.jpg`)
 - Dummy labels are created at runtime for experimentation
 
+dataset link- https://drive.google.com/drive/folders/1bIsm7NvJg66m20IZIIMlPfM-AkQhCdjh?usp=sharing
 ---
 
 ## 🔧 How It Works
