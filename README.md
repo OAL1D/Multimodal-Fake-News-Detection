@@ -51,9 +51,12 @@ Multimodal-Fake-News-Detection/
 1. Install required libraries:
 ```bash
 pip install -r requirements.txt
+2. Run the main script
+python multimodal_fakenews.py
 
 
-🛑 Disclaimer
+
+ 🛑 Disclaimer
 This version uses random labels since the original dataset has no ground-truth annotations. The accuracy is not meaningful and is only used to test the multimodal pipeline.
 
 
