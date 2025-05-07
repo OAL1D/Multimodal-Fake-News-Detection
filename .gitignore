@@ -1,0 +1,13 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+*.log
+*.tmp
+*.ipynb_checkpoints
+*.DS_Store
+
+# Avoid large files
+data/private_image_set/
